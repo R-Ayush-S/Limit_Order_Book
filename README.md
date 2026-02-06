@@ -21,8 +21,7 @@ This project demonstrates core concepts used in real trading systems and quantit
 - FIFO matching within each price level
 - Market and limit order handling
 - Partial fills and multi-level matching
-- Order cancellation via O(1) lookup map
-- Large-scale randomized simulation
+- Large-scale randomized simulation(Monte Carlo Simulation)
 - Post-simulation integrity validation
 - Performance timing
 - On Console Logging(in main2.cpp)
