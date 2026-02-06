@@ -28,6 +28,13 @@ This project demonstrates core concepts used in real trading systems and quantit
 
 ---
 
+## Accomplishment
+
+- It takes 3sec to completely 100,000 trasactions without any kind of logging.
+- It takes 10sec to complete 100,000 transactions with on Console Logging.
+
+
+---
 ## Order Book Design
 
 - BUY side: `map<price, list<order>, greater<>>` (highest price first)
